@@ -1,0 +1,88 @@
+
+# Site settings
+title: Michael Hudson
+subtitle: Assorted musings and learnings
+email: michael.andrew.hudson@gmail.com
+description: >
+  A personal blog focusing on learnings in software engineering, as well
+  as musings on managing and building great software development teams.
+baseurl: ""
+url: "http://michaelhudson.net.au"
+twitter_username:
+github_username:  Huddo121
+disqus_baseurl: "http://www.michaelhudson.net.au"
+disqus_shortname: iammichaelhudson
+permalink: :title
+images: "/images/"
+cover: "/assets/mountain.jpeg"
+cover_artist: "Sven Scheuermeier"
+cover_link: "https://unsplash.com/sveninho"
+logo: "/assets/Logo.png"
+avatar: "/assets/Avatar.jpg"
+ga_tracking_id: "UA-60167910-1"
+
+# Build settings
+markdown: kramdown
+paginate: 10
+paginate_path: "/page:num/"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Michael Hudson"
+
+
+# External gems
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - "/vendor/"
+
+social:
+  # Sites to contact me on
+  - name: Check out my GitHub projects
+    icon: github
+    url: https://github.com/Huddo121
+    desc: Check out my GitHub projects
+    share: false
+
+  - name: Connect with me on LinkedIn
+    icon: linkedin
+    url: https://au.linkedin.com/in/michaelandrewhudson
+    desc: Connect with me on LinkedIn
+    share: true
+
+  # Sharing Sites
+  - name: Facebook
+    icon: facebook
+    url:
+    desc:
+    share: true
+
+  - name: Twitter
+    icon: twitter
+    username: Huddo121
+    url:
+    desc:
+    share: true
+
+  - name: Google+
+    icon: google-plus
+    url:
+    desc:
+    share: true
+
+  - name: Reddit
+    icon: reddit
+    share: true
+
+protocols:
+    fb_image: "/assets/logo.png"
+    fb_image_width: 1024
+    fb_image_height: 1024
+    fb_image_type: "image/png"
+
+    twitter_image: "/assets/logo.png"
