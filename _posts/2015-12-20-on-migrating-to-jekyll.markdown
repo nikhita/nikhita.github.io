@@ -10,7 +10,7 @@ I’ve just finished migrating this blog to [Jekyll](http://www.jekyllrb.com), a
 {% include lightbox.html image="React_Blog_UI.png" caption="The dreaded 'before' image" %}
 
 ## Motivation Behind The Old Blog
-TI set out on building the previous version of this blog as a means of learning [React.js](http://https://facebook.github.io/react/). I often look at frameworks, languages and platforms that I find interesting and feel unfulfilled by simply following the main tutorial on their website.
+I set out on building the previous version of this blog as a means of learning [React.js](http://https://facebook.github.io/react/). I often look at frameworks, languages and platforms that I find interesting and feel unfulfilled by simply following the main tutorial on their website.
 
 The tutorials that I would consider "good" often only result in the developer setting up some sort of contrived application such as a basic hello world, echo server or todo list app, which to me seems like a great introduction, but is not enough to build a solid opinion on. At the time that I set up the blog I had a burgeoning interest in React and had wanted to experiment with doing a more graphically oriented form of development, as the majority of my serious experience thus far has primarily involved server-side programming and CLI applications.
 
