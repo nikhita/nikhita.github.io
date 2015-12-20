@@ -42,7 +42,8 @@ layout: default
       </div>
     </section>
     <section class="post-excerpt" itemprop="description">
-      <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+      {% assign post_footnote_replacement = post.url | append: '#fn:' %}
+      <p>{{ post.content | truncatewords: 50 | replace:'#fn:', post_footnote_replacement }}</p>
     </section>
   </li>
   {% if forloop.last == false %}
