@@ -45,6 +45,7 @@ pre code.hljs {
   margin-left: auto;
   margin-right: auto;
   border-top: 1px solid $divider-color;
+  height: 8px;
   .one {
     position: relative;
     top: -9px;
@@ -254,6 +255,29 @@ pre code.hljs {
 		max-width: none;
 		width: 30%;
 	}
+	.quote {
+		margin: auto;
+		padding-left: 3em;
+		padding-right: 3em;
+		padding-bottom: 1em;
+		text-align: center;
+		.quote-content {
+			max-width: max-content;
+			opacity: 0.87;
+			margin: auto;
+		}
+		.quote-author {
+			text-align: right;
+			margin-right: 20px;
+			opacity: 0.5;
+			display: flex;
+			flex-direction: row;
+			justify-content: flex-end;
+		}
+		.quote-author::before {
+			content: "- ";
+		}
+	}
 	/*
 	*	Posts
 	*/
@@ -434,27 +458,4 @@ pre code.hljs {
 	float: left;
 	margin: 1em 0;
 	text-align: right;
-}
-
-.quote {
-	margin: auto;
-	padding-left: 40px;
-	padding-right: 40px;
-	text-align: center;
-	max-width: max-content;
-}
-.quote .quote-content {
-	max-width: max-content;
-	opacity: 0.87;
-}
-.quote .quote-author {
-	text-align: right;
-	margin-right: 20px;
-	opacity: 0.5;
-	display: flex;
-	flex-direction: row;
-	justify-content: flex-end;
-}
-.quote .quote-author::before {
-	content: "- ";
 }
