@@ -16,8 +16,6 @@ layout: default
 
 <div class="wrapper">
 
-{% unless page.cover %} {% include page_divider.html %} {% endunless %}
-
 <section class="post-meta">
   <div class="post-date">Posted on the <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
     {% assign d = page.date | date: "%-d"  %}
@@ -37,7 +35,7 @@ layout: default
     {% endif %}
   {% endfor %}{% endif %}
   </div>
-</section>  
+</section>
 
 <article class="post-content">
   {{ content }}
