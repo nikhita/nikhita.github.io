@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="post">
 
-<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: site.baseurl }});"{% endif %}>
+<div class="post-header-container {% if page.cover %}has-cover{% endif %}" {% if page.cover %}style="background-image: url({{ page.cover | prepend: '/covers/' | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if page.cover %}has-cover{% endif %}">
     <header class="post-header">
       <h1 class="title">{{ page.title }}</h1>
@@ -12,6 +12,17 @@ layout: default
       {% endif %}
     </header>
   </div>
+  {% if page.cover_artist %}
+    <span class="attribution">
+      {%if page.cover_link %}
+        <a href="{{page.cover_link}}">
+      {% endif %}
+      Cover image by {{page.cover_artist}}
+      {%if page.cover_link %}
+        </a>
+      {% endif %}
+    </span>
+  {% endif %}
 </div>
 
 <div class="wrapper">

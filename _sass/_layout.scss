@@ -84,6 +84,17 @@ pre code.hljs {
 		.subtitle, .info {
 			font-size: modular-scale(1);
 		}
+		.attribution{
+			position: relative;
+			float: right;
+			margin-right: 1em;
+			color: $white;
+			top: -2em;
+			opacity: 0.4;
+			a {
+				color: $white;
+			}
+		}
 	}
 	.scrim {
 		padding: 3em 1em;
