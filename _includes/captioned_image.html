@@ -1,0 +1,8 @@
+<span markdown="1">
+  ![{% if include.caption %}{{ include_caption | strip_html }}{% endif %}]({{site.images}}{{include.image}})
+</span>
+{% if include.caption %}
+  <span class="lightbox-caption" markdown="1">
+    {{ include.caption }}
+  </span>
+{% endif %}

@@ -131,7 +131,7 @@ layout: default
 </section>
 
 {% if site.disqus_shortname %}
-{% unless page.disqus_disabled %}
+{% unless page.disqus_disabled or jekyll.environment == "development" %}
 <section class="disqus">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
