@@ -3,7 +3,7 @@ layout: post
 title: "On My Honours Project"
 tags:
 categories:
-date: 2016-03-15 10:45PM
+date: 2016-03-15 00:00AM
 cover: "glacier_point_jordan_mcqueen.jpg"
 cover_artist: Jordan McQueen
 cover_link: https://unsplash.com/photos/93g2k8D1Mi8
