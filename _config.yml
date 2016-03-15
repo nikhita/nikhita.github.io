@@ -38,6 +38,8 @@ defaults:
 # External gems
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
 
 exclude:
   - "/vendor/"
