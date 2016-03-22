@@ -274,12 +274,22 @@ pre code.hljs {
 		margin: auto;
 		padding-left: 3em;
 		padding-right: 3em;
-		padding-bottom: 1em;
+		padding-top: 2em;
+		padding-bottom: 2em;
 		text-align: center;
 		.quote-content {
+			font-size: 120%;
 			max-width: max-content;
+			padding-top: 0.6em;
+			padding-bottom: 1em;
 			opacity: 0.87;
 			margin: auto;
+			::before {
+				content: '\201C';
+			}
+			::after {
+				content: '\201D';
+			}
 		}
 		.quote-author {
 			text-align: right;
@@ -288,6 +298,7 @@ pre code.hljs {
 			display: flex;
 			flex-direction: row;
 			justify-content: flex-end;
+			padding-bottom: 1.0em;
 		}
 		.quote-author::before {
 			content: "- ";

@@ -1,12 +1,15 @@
-{% include page_divider.html %}
+
 <div class="quote">
-    <div class="quote-content">
-        <span markdown="1">
-            {{include.content}}
-        </span>
-    </div>
+  {% include page_divider.html %}
+  <div class="quote-content">
+      <span markdown="1">
+          {{include.content}}
+      </span>
+  </div>
+  {% if include.author %}
     <div class="quote-author">
         <em markdown="1">{{include.author}}</em>
     </div>
+  {% endif %}
+  {% include page_divider.html %}
 </div>
-{% include page_divider.html %}
