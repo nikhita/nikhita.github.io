@@ -83,9 +83,9 @@ social:
     share: true
 
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "/assets/Logo.png"
     fb_image_width: 1024
     fb_image_height: 1024
     fb_image_type: "image/png"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "/assets/Logo.png"
