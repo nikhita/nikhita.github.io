@@ -87,5 +87,6 @@ protocols:
     fb_image_width: 1024
     fb_image_height: 1024
     fb_image_type: "image/png"
+    fb_app_id: 892328154219782
 
     twitter_image: "/assets/Logo.png"
