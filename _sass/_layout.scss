@@ -255,7 +255,18 @@ pre code.hljs {
 			}
 		}
 	}
+	blockquote {
+		border-left: solid 4px #2980b9;
+		padding-left: 1.4em;
+		padding-top: 0.25em;
+		font-family: Georgia,Cambria,"Times New Roman",Times,serif;
+	}
 	img {
+		display: block;
+		margin: auto;
+		width: 90%;
+	}
+	video {
 		display: block;
 		margin: auto;
 		width: 90%;
