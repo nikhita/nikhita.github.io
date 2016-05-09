@@ -12,7 +12,7 @@ The ability to effectively communicate with others is a skill that has been vita
 
 As just your average developer you're often required to undertake many different forms of communication. We need to be able to explain our ideas to other developers, write technical documentation, and many developers still need to interact directly with end users.
 
-We also have many different audiences that we have to communicate with including people such as management, QA testers, and systems engineers. The level of empathy required to successfully deal with such a diverse range of people is non-trivial, and a truly valuable skill to master. It's such a big deal that in Dale Carnegie's eponymous book 'How to Win Friends and Influence People', in part 3, chapter 8, he draws much attention to it.
+We also have many different audiences that we have to communicate with including people such as management, QA testers, and systems engineers. The level of empathy required to successfully deal with such a diverse range of people is non-trivial, and a truly valuable skill to master. It's such a big deal that in Dale Carnegie's best-selling book 'How to Win Friends and Influence People', in part 3, chapter 8, he draws much attention to it.
 
 {%include quote.html content="If, as a result of reading this book, you only get one thing - an increased tendency to think always in terms of the other person's point of view, and see things from that person's angle, as well as your own - if you only get one thing from this book, it may easily prove to be one the stepping stones of your career" author="Dale Carnegie" %}
 
