@@ -72,7 +72,7 @@ $(document).ready(function() {
   });
 
   //Make sure all the post's links open in a new tab
-  jQuery('.post-content a, .post-excerpt a').attr ('target', '_blank');
+  jQuery('.post-content a, .post-excerpt a').not('.footnote, .reversefootnote').attr ('target', '_blank');
 
 });
 
