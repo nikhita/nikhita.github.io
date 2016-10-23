@@ -247,7 +247,7 @@ docker images --filter "dangling=true" --format "{{.ID}}" | xargs docker rmi
 {% endraw %}
 
 # Things I learnt
-My dislike for Javascript hasn't gone away. I thought that since what I was aiming to do was essentially consumption and transformation of an existing API that node would be perfect for what I was doing, but many of the things that frustrate me about the node ecosystem consistently causes me to dread working with it. There was an article sent around at work titled '[How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)' that makes the pain of trying to break in to the Javascript ecosystem something of a pain.
+My dislike for Javascript hasn't gone away. I thought that since what I was aiming to do was essentially consumption and transformation of an existing API that node would be perfect for what I was doing, but many of the things that frustrate me about the node ecosystem consistently causes me to dread working with it. There was an article sent around at work titled '[How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)' that makes the pain of trying to break in to the Javascript ecosystem all too clear.
 
 Docker is still a fun little tool to use, and I plan on expanding Behold as my experience with Docker grows. I'd also like to spend a bit more time playing with the native [Docker Swarm](https://docs.docker.com/swarm/overview/) features, and integrating them in to Behold if possible. If it's possible to determine that a number of containers were started and scaled via swarm then I should be able to just display them as a single container with a number in the corner, or something like that.
 
