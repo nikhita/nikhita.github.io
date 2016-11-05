@@ -4,6 +4,7 @@ title: How to build a blog using Github, Jekyll and Lanyon
 description: This is a detailed tutorial for making your blog using Github pages. It covers every thing that you need to do - step by step!
 comments: true
 ---
+UPDATE: I redesigned this blog using [Centrarium](https://github.com/bencentra/centrarium). Though my blog does not reflect the steps in this post, this tutorial helped me to rebuild my blog. I hope this helps you too!
 
 I built this blog using Github pages, [Jekyll](http://jekyllrb.com) and the [Lanyon](http://lanyon.getpoole.com/) theme. The most amazing part is that it's free, minimalist, uses Markdown and you can get it running in no time! Also, it does not feel bloated like Wordpress, etc.
 
