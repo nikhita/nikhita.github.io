@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://nikinath.github.io/sitemap.xml
