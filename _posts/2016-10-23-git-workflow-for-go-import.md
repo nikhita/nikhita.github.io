@@ -7,7 +7,7 @@ image:
 keywords: golang, gocode, git, workflow, import, path, mess, fork, update, generate
 ---
 
-If you are writing code in Go and you want to contribute to some open source project, chances are you won't get it right on your first try. Especially if the project is using import paths referencing to the original import path ie. the import paths correspond to the original repo and not your fork!
+If you are writing code in Go and you want to contribute to some open source project, chances are you won't get it right on your first try if the project is using import paths referencing to the original import path ie. the import paths correspond to the original repo and not your fork!
 
 ## The Problem
 
