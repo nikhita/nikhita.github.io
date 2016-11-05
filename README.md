@@ -1,17 +1,8 @@
-## From the desk of Michael Hudson
+## Source code of my blog
 
-This site is available at [http://MichaelHudson.net.au](http://MichaelHudson.net.au) and [http://IAmMichaelHudson.com](http://IAmMichaelHudson.com)
+The site is available at - https://nikinath.github.io/. It has been hosted using Github pages.
 
-This repository holds my personal Jekyll blog, for hosting on GitHub pages.
+Prior to building the new website, I was using the [Lanyon](https://github.com/poole/lanyon) theme. I have written two detailed tutorials about how I had made the blog using Lanyon. They turned out to be quite useful while rebuilding the site! Here they are for your quick reference:
 
-This blog makes use of the Centrarium theme by Ben Centra, and includes a number of my own modifications to the
-theme, including;
-  * Adding Reddit as a social share option
-  * Adding previous/next post links
-  * Adding comment counts to the blog index
-  * Adding a lightbox include
-  * Adding a quote include
-  * Updated Disqus functionality to work across multiple domains
-  * Disabling of google analytics when not in production
-
-For more information visit the [About This Site](http://huddo121.github.io/about-this-site/) page.
+* [How to build a blog using Github, Jekyll and Lanyon](https://nikinath.github.io/build-blog-using-github-jekyll)
+* [SEO for Jekyll blogs](https://nikinath.github.io/build-blog-using-github-jekyll) - if you have a jekyll blog, definitely read this!
