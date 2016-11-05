@@ -86,18 +86,6 @@ $ git branch --track my-fix-local origin/my-fix-remote
 $ git pull
 {% endhighlight %}
 
-
-{% highlight javascript %}
-function demo(string, times) {
-  for (var i = 0; i < times; i++) {
-    console.log(string);
-  }
-}
-demo("hello, world!", 10);
-{% endhighlight %}
-
-
-
 ### Check the import paths
 
 Now that you have your repo in the right location, with the changes you had made, you can import all your paths again. This time, you'll see that there would be no conflicts with original import paths and all's good! :)
