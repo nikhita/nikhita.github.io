@@ -1,36 +1,40 @@
 ---
 layout: post
-title: Git workflow while working with Go
-description: While working with go, it is easy to mess up your import path. Here's a git workflow which can set it right.
+title: Setting import path for go generate
+description: Go generate can be used to automatically generate imports. But it is easy to mess it up. Here is what you could do to set it right.
 comments: true
 image:
 keywords: golang, gocode, git, workflow, import, path, mess, fork, update, generate
 ---
 
-If you are writing code in Go and you want to contribute to some open source project, chances are you won't get it right on your first try if the project is using import paths referencing to the original import path ie. the import paths correspond to the original repo and not your fork!
+Go generate is one of my favorite tools but it is easy to mess up the import paths if you are not careful. This problem generally occurs when the import paths end up referencing to _your_ fork and not to the _original_ repo. This is a very common issue if you are:
+
+1. Using go generate
+2. Collaborating with others over github (essentially having your own fork of the project)
 
 ## The Problem
 
-I was working on [taskcluster-cli](https://github.com/taskcluster/taskcluster-cli). If you notice carefully, it has a file called `subtree-imports.go` which automatically imports _subtrees_, which means it has import paths like:
+I was working on [taskcluster-cli](https://github.com/taskcluster/taskcluster-cli). If you notice carefully, it has a file called `subtree-imports.go` which automatically imports _subtrees_ on running `go generate`, which means it has import paths like:
 
 ```
 github.com/taskcluster/taskcluster-cli/apis
 ```
+
 If I fork the project and automatically generate imports, it will import a path something like this:
 
 ```
 github.com/nikinath/taskcluster-cli/apis
 ```
 
-This is horribly screwed up now! :(
+As you can see, the import path generated are different. This is all horribly screwed up now! :(
 
 ## The solution
 
 Let's dive into the heart of the problem! The import paths get messed up because they depend on where the code is residing. When I clone my fork, the code is now residing at `$GOPATH/src/github.com/nikinath/taskcluster-cli ` and not at `$GOPATH/src/github.com/taskcluster/taskcluster-cli` which leads to...import hell?
 
-So we see that the solution is to make sure that your code resides at `$GOPATH/src/github.com/taskcluster/taskcluster-cli`. Wait! Before you freak out and start yelling "I WANT TO PUSH TO MY FORK, NOT THE ORIGINAL REPO", let's add some more remotes! :D
+So the solution is to make sure that your code resides at `$GOPATH/src/github.com/taskcluster/taskcluster-cli`. Wait! Before you freak out and start yelling "I WANT TO MAKE CHANGES AND PUSH TO MY FORK, NOT THE ORIGINAL REPO!", let's add some more remotes! :D
 
-### Get the names right!
+### Get the names right
 
 If you do a `$ git remote -v` at the location where your original repo is, you'll probably see something like this:
 
@@ -39,7 +43,7 @@ origin    https://github.com/taskcluster/taskcluster-cli (fetch)
 origin    https://github.com/taskcluster/taskcluster-cli (push)
 {% endhighlight %}
 
-Before I add more remotes, I want to get my naming right. Let's call this remote as _upstream_. Just do a `$ git remote rename origin upstream`.
+Before adding more remotes, let's name everything how it should be. Let's call this remote as _upstream_. Just do a `$ git remote rename origin upstream`.
 
 For a sanity check, let's `$ git remote -v` again:
 
@@ -64,9 +68,9 @@ We can see that doing this does us good:
 * My import paths will no longer get messy.
 * I can still safely make changes and push to my fork (origin).
 
-### Setting things right
+### Fixing branches
 
-Read this only if you have made some changes, pushed it to a remote repo (mostly your fork) and now realized that you have to sort out everything. If you a fresh fork, move onto the next section.
+Read this only if you don't have a fresh fork i.e. you have made some changes, pushed it to a remote repo (mostly your fork) and now realized that you have to sort out everything. If you a fresh fork, move onto the next section.
 
 To fix this, you can create branches according to your fixes and make these branches track the branches in the remote fork.
 
@@ -90,6 +94,11 @@ $ git pull
 
 Now that you have your repo in the right location, with the changes you had made, you can import all your paths again. This time, you'll see that there would be no conflicts with original import paths and all's good! :)
 
+{% highlight bash %}
+$ go generate
+{% endhighlight %}
+
+
 ### Let's push it!
 
 * Import paths in order? Check.
@@ -110,7 +119,7 @@ For sending a pull request, you can use Github.
 
 ### Updating your repo
 
-While you were busy sorting out your import paths, someone else might have contributed some code. To update your repo, you can fetch and merge.
+While you were busy sorting out your import paths, someone else might have contributed some code. To update your repo, you can fetch and merge. I generally don't like touching `rebase` unless necessary but you could also do a `git rebase upstream/master`.
 
 {% highlight bash %}
 $ git fetch upstream
@@ -118,12 +127,5 @@ $ git checkout master
 $ git merge upstream/master
 {% endhighlight %}
 
-I generally don't like touching `rebase` unless necessary but you could also do a `git rebase upstream/master`.
 
-## Closing note
-
-Finally...we are done!
-
-If you have any suggestions or constructive criticism, feel free to drop them in the comments section or mail me at nikitaraghunath@gmail.com.
-
-PS: I am a Go newbie so if there is something wrong, please tell me - I'd love to improve! :)
+And...we are done! :)
