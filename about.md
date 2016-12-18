@@ -23,6 +23,6 @@ You can find me at these places. Feel free to reach out to me. I don't bite! :)
 * Github - [nikinath](https://github.com/nikinath)
 * Twitter - [TheNikhita](https://twitter.com/TheNikhita)
 * Quora - [Nikhita Raghunath](https://www.quora.com/profile/Nikhita-Raghunath)
-* LinkedIn - [nikinath](https://www.linkedin.com/in/nikinath)
+* LinkedIn - [nikinath](https://www.linkedin.com/in/nikinath) (highly outdated)
 
 PS: Best way to reach me is email or twitter.
