@@ -6,7 +6,6 @@ permalink: /about/
 ---
 <br>
 
-Hi random stranger, welcome to my website!
 
 I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and firmly believe that software development is much more than code - it’s about people too.
 
