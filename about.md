@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 
 
-I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and firmly believe that software development is much more than code - it’s about people too.
+I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and have a firm belief that software development is much more than code - it’s about people too.
 
 As a student, my interests tend to vary but I am in love with systems programming. I also like coding in Rust and Go.
 
