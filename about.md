@@ -6,15 +6,13 @@ permalink: /about/
 ---
 <br>
 
-<img src="{{ site.baseurl }}/assets/profile-pic.jpg" title="Profile Picture" class="profile">
-
 Hi random stranger, welcome to my website!
 
-I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. My primary interest lies in software development and programming. Apart from these, I love reading and playing badminton.
+I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and firmly believe that software development is much more than code - it’s about people too.
 
-I also write a blog, as you already might have seen. My writing style usually involves writing in stories, providing insight about the topic with many code snippets and data, but making sure to keep all of this relatively accessible to newbies. I also like to talk about those fun, neat little tricks that I come across in my work or otherwise.
+As a student, my interests tend to vary but I am in love with systems programming. I also like coding in Rust and Go.
 
-If this is your taste, you may enjoy my blog! Have fun reading my posts and if you have questions, suggestions or just anything to say, please contact me! :)
+I write at my blog - have fun reading my posts and if you have questions, suggestions or just anything to say, please contact me!
 
 You can find me at these places. Feel free to reach out to me. I don't bite! :)
 
@@ -24,5 +22,7 @@ You can find me at these places. Feel free to reach out to me. I don't bite! :)
 * Twitter - [TheNikhita](https://twitter.com/TheNikhita)
 * Quora - [Nikhita Raghunath](https://www.quora.com/profile/Nikhita-Raghunath)
 * LinkedIn - [nikinath](https://www.linkedin.com/in/nikinath) (highly outdated)
+
+For all the security geeks out there, my public key is [B944F27A57CF61F5](https://keybase.io/nikhita).
 
 PS: Best way to reach me is email or twitter.

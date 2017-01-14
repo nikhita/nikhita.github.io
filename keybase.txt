@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/nikhita
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nikinath.github.io
+  * I am nikhita (https://keybase.io/nikhita) on keybase.
+  * I have a public key ASBiFn0btDxvOOjNeEr2R3c_TL5hRFmzYgz-JQJ3gccd9go
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012062167d1bb43c6f38e8cd784af647773f4cbe614459b3620cfe25027781c71df60a",
+            "host": "keybase.io",
+            "kid": "012062167d1bb43c6f38e8cd784af647773f4cbe614459b3620cfe25027781c71df60a",
+            "uid": "3af40b5168a5a66e941f92f93459cc19",
+            "username": "nikhita"
+        },
+        "service": {
+            "hostname": "nikinath.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1484421818,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1484421760,
+        "hash": "9a3232a516e6a728084efd692b50a64099bc13ae2fd60cd2d10410e60e1ec4789d7ac66fc7f61d2f261121feea7574a4f9f086223d167493b115e8ef962a186f",
+        "seqno": 799806
+    },
+    "prev": "6b5e9b2f37dd7b6a272347884e4e470103db2fdcff50bd68acd5a67e8bbe812f",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYhZ9G7Q8bzjozXhK9kd3P0y+YURZs2IM/iUCd4HHHfYKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwidWlkIjoiM2FmNDBiNTE2OGE1YTY2ZTk0MWY5MmY5MzQ1OWNjMTkiLCJ1c2VybmFtZSI6Im5pa2hpdGEifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5pa2luYXRoLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg0NDIxODE4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODQ0MjE3NjAsImhhc2giOiI5YTMyMzJhNTE2ZTZhNzI4MDg0ZWZkNjkyYjUwYTY0MDk5YmMxM2FlMmZkNjBjZDJkMTA0MTBlNjBlMWVjNDc4OWQ3YWM2NmZjN2Y2MWQyZjI2MTEyMWZlZWE3NTc0YTRmOWYwODYyMjNkMTY3NDkzYjExNWU4ZWY5NjJhMTg2ZiIsInNlcW5vIjo3OTk4MDZ9LCJwcmV2IjoiNmI1ZTliMmYzN2RkN2I2YTI3MjM0Nzg4NGU0ZTQ3MDEwM2RiMmZkY2ZmNTBiZDY4YWNkNWE2N2U4YmJlODEyZiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPPugpytCxhr/qqUjI1D5piTk1wWNOui6VIW3O1ycUyzDCxiVfi8t7eQoIKcSEqsXD06eEWWMxbfhLot/iyDEAuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBzeijv/CKheHxSgBrm8GjxhIbkvrUUnwRiLVtCxdIf+aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nikhita
+
+==================================================================
