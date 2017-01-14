@@ -26,7 +26,7 @@ fatal: Authentication failed for 'https://github.com/nikinath/nikinath.github.io
 ## How to solve it
 
 
-**Generate a personal access token**: Github requires you to generate a Personal Access token for autheticating via the command line i.e. for git. To [generate](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) this, go to Settings -> Personal Access Tokens -> Generate new token. Make sure you note down this token because you won't be able to see it again!
+**Generate a personal access token**: Github requires you to generate a Personal Access token for authenticating via the command line i.e. for git. To [generate](https://help.github.com/articles/creating-an-access-token-for-command-line-use/) this, go to Settings -> Personal Access Tokens -> Generate new token. Make sure you note down this token because you won't be able to see it again!
 
 Test the token by:
 
