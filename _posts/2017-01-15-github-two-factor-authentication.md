@@ -75,4 +75,13 @@ $ git config --global credential.helper "netrc -f ~/.netrc.asc -v"
 
 So now when you push over HTTPS, it won't ask you for the username and token.
 
+<br>
+
+## Pro Tip
+
+SSH is far more secure than HTTPS for authentication. With HTTPS, if your username and password are seen or copied by someone, then that person has access to your entire account. As long as you look after your private key, SSH is more secure and convenient. Even if someone had access to your private key (for the love of all that is holy, please don't let this happen), you can log in to your Github account and delete any stolen keys.
+
+SSH can be tunneled over HTTPS if the network you are on blocks the SSH port. A nice [tutorial](https://help.github.com/articles/using-ssh-over-the-https-port/) is available. Thanks to [Sachin Kamath](https://blog.sachinwrites.xyz/) for mentioning this!
+
+
 
