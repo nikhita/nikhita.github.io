@@ -154,7 +154,7 @@ That's it for ```robots.txt```!
 
 ## <a name="share"></a>5. Adding share buttons for social media
 
-This isn't technically SEO but it helps to grow your audience. If you'd like to implement the share buttons like I did, make a html file called ```share.html``` in the ```_includes``` folder and paste the code below:
+This isn't technically SEO but it helps to grow your audience. If you'd like to implement the share buttons like I did, make a html file called ```share.html``` in the ```_includes``` folder and paste the code below (Source: [webjeda](https://blog.webjeda.com/)):
 
 ```html
 {% raw %}
@@ -181,12 +181,11 @@ This isn't technically SEO but it helps to grow your audience. If you'd like to 
 ```
 
 
-Now you need to include this html file. I just wanted it to appear on my _posts_ page (and not on home page, 404 page, etc) so I included it in ```_layouts/post.html```. I included it just above the final ending div tag:
+Now you need to include this html file. I just wanted it to appear on my _posts_ page (and not on home page, 404 page, etc) so I included it in ```_layouts/post.html```. I included it just above the final ending div tag.
 
 ```html
 {% raw %}
 {% include  share.html %}
-</div>
 {% endraw %}
 ```
 
