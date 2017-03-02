@@ -41,6 +41,10 @@ gems:
 exclude:
   - "/vendor/"
 
+# Collections
+collections:
+  - talks
+
 #
 # Social settings are used in two places:
 # * In the footer, as links to your personal profiles
