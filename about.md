@@ -1,17 +1,17 @@
 ---
 layout: page
 title: About Me
-description: Nikhita Raghunath is an undergrad who is extremely passionate about software development, systems programming and open source.
+description: Nikhita Raghunath is an undergrad who is extremely passionate about software development, distributed systems and open source.
 permalink: /about/
 ---
 <br>
 
 
-I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and have a firm belief that software development is much more than code - it’s about people too.
+I am Nikhita Raghunath, an undergraduate in Electronics Engineering from VJTI, Mumbai. Even though I am not a CS undergrad, I love programming and firmly believe that software development is much more than code - it’s about building a diverse and inclusive community too.
 
-As a student, my interests tend to vary but I am in love with systems programming. I also like coding in Rust and Go.
+I am fascinated by distributed systems, containers, cloud, linux, open source and more! I love programming in Go and have been delving into the DevOps ecosystem lately.
 
-I write at my blog - have fun reading my posts and if you have questions, suggestions or just anything to say, please contact me!
+I write at my blog - if you have questions, suggestions or just anything to say, please contact me!
 
 You can find me at these places. Feel free to reach out to me. I don't bite! :)
 
