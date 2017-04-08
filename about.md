@@ -16,7 +16,7 @@ I write at my blog - if you have questions, suggestions or just anything to say,
 You can find me at these places. Feel free to reach out to me. I don't bite! :)
 
 * Email - nikitaraghunath@gmail.com
-* IRC nick - `nikhita`
+* IRC and Slack nick - `nikhita`
 * Github - [nikinath](https://github.com/nikinath)
 * Twitter - [TheNikhita](https://twitter.com/TheNikhita)
 * Quora - [Nikhita Raghunath](https://www.quora.com/profile/Nikhita-Raghunath)
