@@ -4,7 +4,7 @@ https://keybase.io/nikhita
 
 I hereby claim:
 
-  * I am an admin of https://nikinath.github.io
+  * I am an admin of https://nikhita.github.io
   * I am nikhita (https://keybase.io/nikhita) on keybase.
   * I have a public key ASBiFn0btDxvOOjNeEr2R3c_TL5hRFmzYgz-JQJ3gccd9go
 
@@ -20,7 +20,7 @@ To do so, I am signing this object:
             "username": "nikhita"
         },
         "service": {
-            "hostname": "nikinath.github.io",
+            "hostname": "nikhita.github.io",
             "protocol": "https:"
         },
         "type": "web_service_binding",
@@ -30,21 +30,21 @@ To do so, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.18"
     },
-    "ctime": 1484421818,
+    "ctime": 1492161516,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1484421760,
-        "hash": "9a3232a516e6a728084efd692b50a64099bc13ae2fd60cd2d10410e60e1ec4789d7ac66fc7f61d2f261121feea7574a4f9f086223d167493b115e8ef962a186f",
-        "seqno": 799806
+        "ctime": 1492161451,
+        "hash": "d8d552272674780914577a8af50a055cfc625545e04583b50a6585a65055b80b2929c0eac98da887d1149aee54ea5c8754a7fa4b763ca043392c518cf168ab17",
+        "seqno": 1018617
     },
-    "prev": "6b5e9b2f37dd7b6a272347884e4e470103db2fdcff50bd68acd5a67e8bbe812f",
-    "seqno": 8,
+    "prev": "054b40960e900b103c07181f22c4487525215ac3e6e1f4bf7f18636d1d0b6ccc",
+    "seqno": 14,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYhZ9G7Q8bzjozXhK9kd3P0y+YURZs2IM/iUCd4HHHfYKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwidWlkIjoiM2FmNDBiNTE2OGE1YTY2ZTk0MWY5MmY5MzQ1OWNjMTkiLCJ1c2VybmFtZSI6Im5pa2hpdGEifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5pa2luYXRoLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjE4In0sImN0aW1lIjoxNDg0NDIxODE4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0ODQ0MjE3NjAsImhhc2giOiI5YTMyMzJhNTE2ZTZhNzI4MDg0ZWZkNjkyYjUwYTY0MDk5YmMxM2FlMmZkNjBjZDJkMTA0MTBlNjBlMWVjNDc4OWQ3YWM2NmZjN2Y2MWQyZjI2MTEyMWZlZWE3NTc0YTRmOWYwODYyMjNkMTY3NDkzYjExNWU4ZWY5NjJhMTg2ZiIsInNlcW5vIjo3OTk4MDZ9LCJwcmV2IjoiNmI1ZTliMmYzN2RkN2I2YTI3MjM0Nzg4NGU0ZTQ3MDEwM2RiMmZkY2ZmNTBiZDY4YWNkNWE2N2U4YmJlODEyZiIsInNlcW5vIjo4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQPPugpytCxhr/qqUjI1D5piTk1wWNOui6VIW3O1ycUyzDCxiVfi8t7eQoIKcSEqsXD06eEWWMxbfhLot/iyDEAuoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBzeijv/CKheHxSgBrm8GjxhIbkvrUUnwRiLVtCxdIf+aN0YWfNAgKndmVyc2lvbgE=
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYhZ9G7Q8bzjozXhK9kd3P0y+YURZs2IM/iUCd4HHHfYKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjIxNjdkMWJiNDNjNmYzOGU4Y2Q3ODRhZjY0Nzc3M2Y0Y2JlNjE0NDU5YjM2MjBjZmUyNTAyNzc4MWM3MWRmNjBhIiwidWlkIjoiM2FmNDBiNTE2OGE1YTY2ZTk0MWY5MmY5MzQ1OWNjMTkiLCJ1c2VybmFtZSI6Im5pa2hpdGEifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5pa2hpdGEuZ2l0aHViLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0OTIxNjE1MTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5MjE2MTQ1MSwiaGFzaCI6ImQ4ZDU1MjI3MjY3NDc4MDkxNDU3N2E4YWY1MGEwNTVjZmM2MjU1NDVlMDQ1ODNiNTBhNjU4NWE2NTA1NWI4MGIyOTI5YzBlYWM5OGRhODg3ZDExNDlhZWU1NGVhNWM4NzU0YTdmYTRiNzYzY2EwNDMzOTJjNTE4Y2YxNjhhYjE3Iiwic2Vxbm8iOjEwMTg2MTd9LCJwcmV2IjoiMDU0YjQwOTYwZTkwMGIxMDNjMDcxODFmMjJjNDQ4NzUyNTIxNWFjM2U2ZTFmNGJmN2YxODYzNmQxZDBiNmNjYyIsInNlcW5vIjoxNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECe+n7QAohYu/avoRRYavTwG9KAqvK2QhcUhC8iLu43KISey9VwBzS6odeYSac/FHQCDz6uMoZrti9RHS6GO0YOqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgJyGY4j1B/3IRznjARyilMmDQWTvLxGdidGp7Jlvi4R6jdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
