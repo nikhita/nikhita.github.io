@@ -6,7 +6,7 @@ comments: true
 image: /images/seo-example.jpg
 ---
 
-Previously, I wrote about [how to make a Jekyll blog](https://nikinath.github.io/2016/08/18/build-blog-using-github-jekyll/). In this post, I'll talk about how you can make that blog SEO compatible. 
+Previously, I wrote about [how to make a Jekyll blog](https://nikhita.github.io/2016/08/18/build-blog-using-github-jekyll/). In this post, I'll talk about how you can make that blog SEO compatible. 
 
 Jekyll blogs don't have any SEO functionality by default so I had to incorporate it myself. This led me to learn more about SEO and it turned out to be quite a fun experience!
 
@@ -246,6 +246,6 @@ Finally, we are done! Your website is now SEO-ready! :)
 
 This article might not include _all_ the ways you can make your website come to the first page of Google but it's definitely a good start. Remember that the thumb rule is to write good content! :)
 
-You can find the source code for this website [here](https://github.com/nikinath/nikinath.github.io).
+You can find the source code for this website [here](https://github.com/nikhita/nikhita.github.io).
 
 If you have any queries or any constructive criticism to offer, leave it out in the comments or mail me at nikitaraghunath@gmail.com.

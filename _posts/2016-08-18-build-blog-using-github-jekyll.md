@@ -10,7 +10,7 @@ I built this blog using Github pages, [Jekyll](http://jekyllrb.com) and the [Lan
 
 Here's a short tutorial on how I made this blog. Ready to learn? Let's get started!
 
-**Note: If you are not interested to do the setup yourself, simply fork [my repo](https://github.com/nikinath/nikinath.github.io) and make the changes to include your details.**
+**Note: If you are not interested to do the setup yourself, simply fork [my repo](https://github.com/nikhita/nikhita.github.io) and make the changes to include your details.**
 
 ## Table of Contents:
 
@@ -68,7 +68,7 @@ Great, now we can proceed to use Lanyon! :)
 
 I like the Lanyon theme since it focuses more on content and is minimalistic. If you are not a fan of sidebars, you can checkout [Poole](http://demo.getpoole.com/) or if you prefer a static sidebar, have a look at [Hyde](http://hyde.getpoole.com/). Decided on your theme? Let's move ahead!
 
-First of all, you will need to create a repository having the name _username.github.io_. For example, my Github username is _nikinath_ so I have named by repo as _nikinath.github.io_. After you do this, clone this repository onto your local computer. Replace ```username``` with your real username.
+First of all, you will need to create a repository having the name _username.github.io_. For example, my Github username is _nikhita_ so I have named by repo as _nikhita.github.io_. After you do this, clone this repository onto your local computer. Replace ```username``` with your real username.
 
 ```shell
 $ git clone https://github.com/username/username.github.io.git
@@ -135,7 +135,7 @@ Still with me? Let's do some tweaking! :)
 
 The first thing you want to do is change the ```_config.yml``` file. Open it in your favorite text editor and edit the sections in _Setup_  and _About/contact_ according to your preferences. 
 
-You can add other details as well. Have a look at [my _config.yml](https://github.com/nikinath/nikinath.github.io/blob/master/_config.yml) for reference. 
+You can add other details as well. Have a look at [my _config.yml](https://github.com/nikhita/nikhita.github.io/blob/master/_config.yml) for reference. 
 
 Lanyon is built on Poole and Poole does not support Jekyll 3 yet. You can check [this issue](https://github.com/poole/lanyon/issues/124). For this, you'll need to add:
 
@@ -274,7 +274,7 @@ Go to ```head.html``` in _includes and add the following line:
 <link rel="icon" sizes="16x16 32x32 64x64" href="{{ site.baseurl }}/public/favicon.ico">
 ```
 
-Note: If you used the link that I provided, you'll have many other images. Have a look at the readme file provided after extraction and change the href link to include ```{% raw %} {{ site.baseurl }}/public/ {% endraw %}```. Look at my [head.html](https://github.com/nikinath/nikinath.github.io/blob/master/_includes/head.html) to understand it better. 
+Note: If you used the link that I provided, you'll have many other images. Have a look at the readme file provided after extraction and change the href link to include ```{% raw %} {{ site.baseurl }}/public/ {% endraw %}```. Look at my [head.html](https://github.com/nikhita/nikhita.github.io/blob/master/_includes/head.html) to understand it better. 
 
 Cool, now we have got our custom favicon in action!
 

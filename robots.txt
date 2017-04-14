@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://nikinath.github.io/sitemap.xml
+Sitemap: https://nikhita.github.io/sitemap.xml

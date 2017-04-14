@@ -23,14 +23,14 @@ github.com/taskcluster/taskcluster-cli/apis
 If I fork the project and automatically generate imports, it will import a path something like this:
 
 ```
-github.com/nikinath/taskcluster-cli/apis
+github.com/nikhita/taskcluster-cli/apis
 ```
 
 As you can see, the import path generated are different. This is all horribly screwed up now! :(
 
 ## The solution
 
-Let's dive into the heart of the problem! The import paths get messed up because they depend on where the code is residing. When I clone my fork, the code is now residing at `$GOPATH/src/github.com/nikinath/taskcluster-cli ` and not at `$GOPATH/src/github.com/taskcluster/taskcluster-cli` which leads to...import hell?
+Let's dive into the heart of the problem! The import paths get messed up because they depend on where the code is residing. When I clone my fork, the code is now residing at `$GOPATH/src/github.com/nikhita/taskcluster-cli ` and not at `$GOPATH/src/github.com/taskcluster/taskcluster-cli` which leads to...import hell?
 
 So the solution is to make sure that your code resides at `$GOPATH/src/github.com/taskcluster/taskcluster-cli`. Wait! Before you freak out and start yelling "I WANT TO MAKE CHANGES AND PUSH TO MY FORK, NOT THE ORIGINAL REPO!", let's add some more remotes! :D
 
@@ -59,7 +59,7 @@ Phew, we are out of messing up with names now! :)
 Now I'll add my fork as a remote. Let's call it _origin_.
 
 {% highlight bash %}
-$ git remote add origin https://github.com/nikinath/taskcluster-cli.git
+$ git remote add origin https://github.com/nikhita/taskcluster-cli.git
 {% endhighlight %}
 
 We can see that doing this does us good:

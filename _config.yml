@@ -7,9 +7,9 @@ email: nikitaraghunath@gmail.com
 description: >
   A personal website about technical things I find useful. Also, random ramblings and rants.
 baseurl: ""
-url: "https://nikinath.github.io/"
+url: "https://nikhita.github.io/"
 twitter_username: TheNikhita
-github_username:  nikinath
+github_username:  nikhita
 disqus_baseurl: "https://nikinath.github.io/"
 disqus_shortname: https-nikinath-github-io
 permalink: :title
@@ -77,8 +77,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: nikinath
-    url: https://github.com/nikinath
+    username: nikhita
+    url: https://github.com/nikhita
     desc: Fork me on GitHub
     share: false
 
@@ -184,6 +184,6 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikinath/nikinath.github.io"
+    os_repo: "https://github.com/nikhita/nikhita.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nikinath.github.io.git"
+    os_src: "git@github.com:nikhita.github.io.git"

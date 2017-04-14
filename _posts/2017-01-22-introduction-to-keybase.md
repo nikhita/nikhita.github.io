@@ -133,7 +133,7 @@ Keybase offers a secure and distributed file storage system (something like Drop
 # to access public folders
 cd /keybase/public/nikhita
 cd /keybase/public/TheNikhita@twitter
-cd /keybase/public/nikinath@github
+cd /keybase/public/nikhita@github
 
 # to access private folders between you and me
 cd /keybase/private/nikhita,<your-username>

@@ -16,10 +16,10 @@ When I heard of [2FA on Github](https://help.github.com/articles/about-two-facto
 
 ```shell
 $ git push origin master
-Username for 'https://github.com': nikinath
-Password for 'https://nikinath@github.com': 
+Username for 'https://github.com': nikhita
+Password for 'https://nikhita@github.com': 
 remote: Invalid username or password.
-fatal: Authentication failed for 'https://github.com/nikinath/nikinath.github.io.git/'
+fatal: Authentication failed for 'https://github.com/nikhita/nikhita.github.io.git/'
 ```
 <br>
 
@@ -56,12 +56,12 @@ If you want to use HTTPS, use the _personal access token as the password_ when y
 
 ```
 machine github.com
-login nikinath
+login nikhita
 password <token>
 protocol https
 
 machine gist.github.com
-login nikinath
+login nikhita
 password <token>
 protocol https
 ```
