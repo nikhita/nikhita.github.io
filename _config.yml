@@ -10,7 +10,7 @@ baseurl: ""
 url: "https://nikhita.github.io/"
 twitter_username: TheNikhita
 github_username:  nikhita
-disqus_baseurl: "https://nikinath.github.io/"
+disqus_baseurl: "https://nikhita.github.io/"
 disqus_shortname: https-nikinath-github-io
 permalink: :title
 cover: "/assets/header_image.jpg"
