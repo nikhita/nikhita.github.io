@@ -6,7 +6,7 @@ comments: true
 image: /images/seo-example.jpg
 ---
 
-Previously, I wrote about [how to make a Jekyll blog](https://nikhita.github.io/2016/08/18/build-blog-using-github-jekyll/). In this post, I'll talk about how you can make that blog SEO compatible. 
+Previously, I wrote about [how to make a Jekyll blog](https://nikhita.github.io/build-blog-using-github-jekyll). In this post, I'll talk about how you can make that blog SEO compatible. 
 
 Jekyll blogs don't have any SEO functionality by default so I had to incorporate it myself. This led me to learn more about SEO and it turned out to be quite a fun experience!
 
