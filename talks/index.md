@@ -60,16 +60,23 @@ I have just started with tech speaking but when I was on stage, I realised it wa
           Slides</a>
         </span>
       {% endif %}
-      &nbsp; &nbsp;
+      
       {% if talks.video %}
+        &nbsp; &nbsp;
         <span class="talks-resource"><i class="fa fa-file-video-o" aria-hidden="true"></i> <a href="{{ talks.video }}">Video</a></span>
       {% endif %}
-      &nbsp; &nbsp;
+      
       {% if talks.post %}
+        &nbsp; &nbsp;
         <span class="talks-resource">
           <i class="fa fa-file-text-o" aria-hidden="true"></i>
           <a href="{{ site.baseurl }}/{{ talks.post }}">Post</a>
         </span>
+      {% endif %}
+  
+      {% if talks.news %}
+        &nbsp; &nbsp;
+        <span class="talks-resource"><i class="fa fa-file-text-o" aria-hidden="true"></i> <a href="{{ talks.news }}">Featured</a></span>
       {% endif %}
     </div>
 {% endfor %}
