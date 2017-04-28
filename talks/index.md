@@ -70,7 +70,7 @@ I have just started with tech speaking but when I was on stage, I realised it wa
         &nbsp; &nbsp;
         <span class="talks-resource">
           <i class="fa fa-file-text-o" aria-hidden="true"></i>
-          <a href="{{ site.baseurl }}/{{ talks.post }}">Post</a>
+          <a href="{{ site.url }}{{ talks.post }}">Post</a>
         </span>
       {% endif %}
   

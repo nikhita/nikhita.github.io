@@ -7,5 +7,6 @@ event-url: "http://www.gophercon.in/"
 location: "Pune, India"
 slides: "https://speakerdeck.com/nikinath/the-story-of-gopath"
 video: "https://youtu.be/1BAIOUON2Uo?t=16m50s"
+post: "experience-gophercon-india"
 news: "https://golangnews.com/stories/1868-slides-the-story-of-gopath-by-nikhita-raghunath"
 ---
