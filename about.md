@@ -9,8 +9,6 @@ permalink: /about/
 
 I am Nikhita Raghunath, an undergraduate from VJTI, Mumbai. I love programming and firmly believe that software development is much more than code - it’s about building a diverse and inclusive community too.
 
-I am fascinated by distributed systems, containers, cloud, linux, open source and more! I love programming in Go and have been delving into the DevOps ecosystem lately.
-
 I write at my blog - if you have questions, suggestions or just anything to say, please contact me!
 
 You can find me at these places. Feel free to reach out to me. I don't bite! :)
