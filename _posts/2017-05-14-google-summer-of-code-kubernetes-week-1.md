@@ -4,6 +4,8 @@ title: GSoC with Kubernetes - Week 1
 description: My experience as a Google Summer of Code intern with Kubernetes (Cloud Native Computing Foundation). Week 1 - Community Bonding Period.
 comments: true
 keywords: google summer of code, community bonding, community bonding period, gsoc, soc, summer of code, nikhita raghunath, vjti, kubernetes, cncf, cloud native computing foundation, k8s, nikhita, week 1, experience, third party resources, tpr, tprs
+tags:
+- gsoc
 ---
 
 # Getting in
