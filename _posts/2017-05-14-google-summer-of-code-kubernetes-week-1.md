@@ -47,17 +47,17 @@ The CNCF community has been very engaging and hospitable too. After the selectio
 
 * [David](https://github.com/deads2k) had been working on creating a stable base for TPRs (now it will probably be called Custom Resources). He even wrote a nice step-by-step approach on setting up the new kube-apiextensions-server which I transformed into a bash [script](https://github.com/nikhita/gsoc-meta-k8s/blob/master/notes/set-kube-apiextensions-server.sh) for easy access. ;)
 
-* I began tinkering around with the new TPR code and started out writing integration tests for the same. The pull request can be seen [here](https://github.com/kubernetes/kubernetes/pull/45721) and the list of integration tests can be seen [here](https://github.com/kubernetes/kubernetes/issues/45511). I plan to be adding more integration tests, solving issues and helping out with [migration](https://github.com/kubernetes/kubernetes/issues/45728) in the coming weeks.
+* I began tinkering around with the new TPR code and started out writing integration tests for the same. The pull request can be seen [here](https://github.com/kubernetes/kubernetes/pull/45721) and the list of integration tests can be seen [here](https://github.com/kubernetes/kubernetes/issues/45511). I plan to add more integration tests, solve issues and help out with [migration](https://github.com/kubernetes/kubernetes/issues/45728) in the coming weeks.
 
 I have been maintaining a google doc with daily updates which serves as a neat log of what I am working on. A major benefit is that I can take a step back and see the overall progress of my project. I have collated everything related to my GSoC project in one [meta repository](https://github.com/nikhita/gsoc-meta-k8s) on Github. If you are interested in knowing more about this project, please visit the repo for a better perspective on it. :)
 
 # Conclusion
 
-I don't intend to write such long blog posts about my weekly progress in the future (I will definitely write, but they will be short and sweet). These blog posts provide a rather detailed and personal overview of my experience. Instead if you are interested in just knowing about the progress, you can also visit the repo to get summarized weekly reports!
+I don't intend to write such long blog posts about my weekly progress in the future (I will definitely write, but they will be short and sweet). These blog posts provide a rather detailed and personal overview of my experience. Instead if you are interested in knowing only about the progress, you can visit the repo to get summarized weekly reports!
 
 When I started out with Kubernetes, I faced a lot of trouble getting a hang out of it. In the coming weeks, I also plan on writing a few blog posts for beginners. I believe that being a newbie myself, I can offer a better and a fresher perspective. So come back after a few weeks to read more!
 
-I am having immense fun working with the Kubernetes team and I plan on contributing more and continuing to have fun over the summer! :tada:
+I am having immense fun working with the Kubernetes team and I plan on contributing more and continuing to have more fun over the summer! :tada:
 
 
 
