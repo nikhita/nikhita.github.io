@@ -20,7 +20,7 @@ You can find me at these places. Feel free to reach out. I don't bite! :)
 * Github - [nikhita](https://github.com/nikhita)
 * Twitter - [TheNikhita](https://twitter.com/TheNikhita)
 * Quora - [Nikhita Raghunath](https://www.quora.com/profile/Nikhita-Raghunath)
-* LinkedIn - [nikinath](https://www.linkedin.com/in/nikinath) (highly outdated)
+* LinkedIn - [nikinath](https://www.linkedin.com/in/nikinath)
 
 For all the security geeks out there, my public key is [B944F27A57CF61F5](https://keybase.io/nikhita).
 
