@@ -24,4 +24,4 @@ You can find me at these places. Feel free to reach out. I don't bite! :)
 
 For all the security geeks out there, my public key is [B944F27A57CF61F5](https://keybase.io/nikhita).
 
-PS: Best way to reach me is email or twitter.
+PS: Best way to reach me is email, the k8s slack or twitter.
