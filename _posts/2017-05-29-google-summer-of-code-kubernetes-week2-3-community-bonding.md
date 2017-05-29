@@ -47,7 +47,7 @@ I even did my first small code review. That felt great because I never thought I
 
 ## Conclusion
 
-I am really enjoying working with the Kubernetes community. Everyone is very friendly and I look forward to Mondays now (yes, you read that right!). 
+I am really enjoying working with the Kubernetes community. Everyone is very friendly and I look forward to Mondays now (yes, you read that right!). In other news, I got a scholarship from WomenWhoGo and GoBridge to attend GopherCon at Denver. Looking forward to meeting people I have been interacting with online and making new friends! :)
 
 PS: Had some Twitter fun this week -
 
