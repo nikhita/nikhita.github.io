@@ -5,7 +5,7 @@ permalink: /talks/
 ---
 <br>
 A list of talks that I have presented at various conferences. 
-I have just started with tech speaking but when I was on stage, I realised it was extremely **FUN** and that I want to do more of this!
+I have just started with tech speaking but when I was on stage, I realized it was extremely **FUN** and that I want to do more of this!
 
 <div>
 {% for talks in site.talks reversed %}
