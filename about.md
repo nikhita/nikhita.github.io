@@ -11,6 +11,8 @@ I am Nikhita Raghunath, an undergraduate from VJTI, Mumbai. I am a Google Summer
 
 I am interested in backend applications, distributed systems, and Linux. I like programming in Go, C++, C and Python. I firmly believe that software development is much more than code - it’s about building a diverse and inclusive community too.
 
+I am a maintainer at [Open Source Help Community](https://github.com/OpenSourceHelpCommunity), where we provide resources, tips and advice to people interested in getting into open source. I am the organizer of the CNCF India remote meetup. I am also a co-organizer at the only WomenWhoGo [chapter](https://www.meetup.com/Women-Who-Go-Bangalore/) in India. 
+
 I write at my blog - if you have questions, suggestions or just anything to say, please contact me!
 
 You can find me at these places. Feel free to reach out (especially if you like nerdy jokes!).
