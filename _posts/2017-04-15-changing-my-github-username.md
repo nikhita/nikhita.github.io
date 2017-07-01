@@ -69,7 +69,7 @@ I put on my imaginary save-your-github-account-from-doom gloves and did the foll
 
 * Let some people know about the username change so they can update on their side.
 
-* Made a dummy github account with the username [`nikinath`](https://github.com/nikinath) to help with redirects.
+* Made a dummy github account with the old username [`nikinath`](https://github.com/nikinath) to help with redirects.
 
 * I share a lot of gists with people on slack/irc. Thankfully, slack provides allows you to edit the messages. So, I edited the gist links in case someone clicks on it in the future (unlikely, but still).
 
@@ -87,8 +87,20 @@ I put on my imaginary save-your-github-account-from-doom gloves and did the foll
     - pushed changes and make sure it works. If you are reading this, then yes, it worked. :D
 
 * Hope nothing else has broken.
-<br>
-<br>
+
+### Gotchas
+
+There a few things you should know about changing the username:
+
+* One place where the change doesn't occur is in PR comments. If someone commented with an @-mention to you using **@old-username**, it won't redirect/change to **@new-username**. So I would advice you to create a new account with your old username to help with such redirects.
+
+* If you had initially set your email id as private, the commits you made directly using the Github UI will now be referenced to the old username. If you don't create a new account to squat on the old one, these commits will be shown as committed by a "Ghost" user and will not be attributed to you. However, any commits you made using Git will be appropriately attributed to your new username.
+
+* Basically, you need to change all places where your old username occurs like _README_, etc. Pro-tip: A Github search of your old username will turn out to be very useful in this case.
+
+* It will probably take a week or two for search engines to index your new account. So if someone googles you, they will be taken to a broken link to your old one. Another reason why you should probably consider squatting on the old username. :wink:
+
+* Someone asked me on Twitter if the change is also reflected in Gitter. Well, guess what? It is!
 
 ### Let the world know
 <div align="center">
