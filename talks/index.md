@@ -4,11 +4,11 @@ title: Talks
 permalink: /talks/
 ---
 <br>
-A list of talks that I have presented at various conferences. 
-I have just started with tech speaking but when I was on stage, I realized it was extremely **FUN** and that I want to do more of this!
+<div align="center"> A list of talks I have presented at conferences and meetups. </div>
 
 <div>
 {% for talks in site.talks reversed %}
+  <br>
   {% if talks.date > site.time %}
     {% if forloop.first %}
       <h2 class="talks-section" id="upcoming">Upcoming</h2>
@@ -74,9 +74,9 @@ I have just started with tech speaking but when I was on stage, I realized it wa
         </span>
       {% endif %}
   
-      {% if talks.news %}
+      {% if talks.featured %}
         &nbsp; &nbsp;
-        <span class="talks-resource"><i class="fa fa-file-text-o" aria-hidden="true"></i> <a href="{{ talks.news }}">Featured</a></span>
+        <span class="talks-resource"><i class="fa fa-file-text-o" aria-hidden="true"></i> <a href="{{ talks.featured }}">Featured</a></span>
       {% endif %}
     </div>
 {% endfor %}
