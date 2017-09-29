@@ -23,9 +23,9 @@ permalink: /talks/
 
 
     <div class="talks">
-      <span class="post-title"><strong><big> {{ talks.title }} - </big></strong></span>
+      <span class="post-title"><strong><big> {{ talks.title }} </big></strong></span>
       {% if talks.subtitle %}
-      <span class="post-date talks-subtitle"> {{ talks.subtitle }} </span>
+      <span class="post-date talks-subtitle"> - {{ talks.subtitle }} </span>
       {% endif %}
       <br>
 
