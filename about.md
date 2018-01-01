@@ -7,7 +7,7 @@ permalink: /about/
 <br>
 
 
-I am Nikhita Raghunath, an undergraduate from VJTI, Mumbai. I was a Google Summer of Code (2017) student for the Cloud Native Computing Foundation (CNCF) working on Kubernetes. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
+I am Nikhita Raghunath, an undergraduate from VJTI, Mumbai. I am an intern at [Red Hat](https://www.redhat.com/en) and work on the extensibility of [Kubernetes](https://kubernetes.io/). Previously, I was a Google Summer of Code (2017) student for the Cloud Native Computing Foundation (CNCF) and also worked on Kubernetes. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
 
 I am interested in backend applications, distributed systems and Linux. I like programming in Go, C++, C and Python. I also like to give talks at conferences and speak about my work.
 
