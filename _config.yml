@@ -1,17 +1,17 @@
 
 # Site settings
-title: Nikhita Raghunath
-name: Nikhita Raghunath
+title: zhanghuidinah
+name: zhanghuidinah
 subtitle: Learnings, Ramblings and Rants
-email: nikitaraghunath@gmail.com
+email: zhanghui@caicloud.io
 description: >
   A personal website about technical things I find useful. Also, random ramblings and rants.
 baseurl: ""
-url: "https://nikhita.github.io/"
-twitter_username: TheNikhita
-github_username:  nikhita
-disqus_baseurl: "https://nikhita.github.io/"
-disqus_shortname: https-nikinath-github-io
+url: "https://zhanghuidinah.github.io/"
+twitter_username: zhanghuidinah
+github_username:  zhanghuidinah
+disqus_baseurl: "https://zhanghuidinah.github.io/"
+disqus_shortname: https-zhanghuidinah-github-io
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
@@ -28,7 +28,7 @@ defaults:
     scope:
       path: ""
     values:
-      author: "Nikhita Raghunath"
+      author: "zhanghuidinah"
 
 
 # External gems
@@ -66,28 +66,21 @@ social:
     username: TheNikhita
     url: https://twitter.com/TheNikhita
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Quora
     icon: quora
     username: NikhitaRaghunath
     url:
     desc: Follow me on Quora
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
-    username: nikhita
-    url: https://github.com/nikhita
+    username: zhanghuidinah
+    url: https://github.com/zhanghuidinah
     desc: Fork me on GitHub
     share: false
-
-  - name: LinkedIn
-    icon: linkedin
-    username: Nikhita Raghunath
-    url: https://in.linkedin.com/in/nikinath
-    desc: Connect with me on LinkedIn
-    share: true
 
   - name: Google+
     icon: google-plus
@@ -184,6 +177,6 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikhita/nikhita.github.io"
+    os_repo: "https://github.com/zhanghuidinah/zhanghuidinah.github.io"
     os_rcs_type: "git"
-    os_src: "git@github.com:nikhita.github.io.git"
+    os_src: "git@github.com:zhanghuidinah.github.io.git"
