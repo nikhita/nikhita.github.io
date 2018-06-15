@@ -63,14 +63,14 @@ collections:
 social:
   - name: Twitter
     icon: twitter
-    username: TheNikhita
-    url: https://twitter.com/TheNikhita
+    username: zhanghuidinah
+    url: https://twitter.com/zhanghuidinah
     desc: Follow me on Twitter
     share: false
 
   - name: Quora
     icon: quora
-    username: NikhitaRaghunath
+    username: zhanghuidinah
     url:
     desc: Follow me on Quora
     share: false
