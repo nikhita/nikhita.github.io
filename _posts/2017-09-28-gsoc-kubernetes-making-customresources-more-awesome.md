@@ -285,13 +285,13 @@ Implementing validation taught me a *lot* about the tooling around the Kubernete
 &nbsp;
 <div align="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Wow! CustomResource validation merged in <a href="https://twitter.com/kubernetesio?ref_src=twsrc%5Etfw">@kubernetesio</a>. That&#39;s huge! Kudos to our awesome <a href="https://twitter.com/gsoc?ref_src=twsrc%5Etfw">@gsoc</a> student <a href="https://twitter.com/TheNikhita?ref_src=twsrc%5Etfw">@TheNikhita</a> <a href="https://t.co/emeA3hgRCL">https://t.co/emeA3hgRCL</a></p>&mdash; Stefan Schimanski (@the_sttts) <a href="https://twitter.com/the_sttts/status/902763680525320192?ref_src=twsrc%5Etfw">August 30, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 &nbsp;
 
 <div align="center">
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Love seeing <a href="https://twitter.com/hashtag/gsoc?src=hash&amp;ref_src=twsrc%5Etfw">#gsoc</a> interns making impact in <a href="https://twitter.com/kubernetesio?ref_src=twsrc%5Etfw">@kubernetesio</a> <a href="https://t.co/zSPxOZIZx7">https://t.co/zSPxOZIZx7</a> <a href="https://t.co/rj9ooTHFOo">https://t.co/rj9ooTHFOo</a></p>&mdash; Brandon Philips (@BrandonPhilips) <a href="https://twitter.com/BrandonPhilips/status/867821071872909312?ref_src=twsrc%5Etfw">May 25, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 &nbsp;
 
