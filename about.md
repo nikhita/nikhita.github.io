@@ -11,11 +11,11 @@ Hey there! I am Nikhita Raghunath and I dabble in distributed systems and open s
 
 I am a core contributor to [Kubernetes](https://kubernetes.io/).
 Currently, I work remotely as a freelance software developer at a start-up called [Loodse](https://www.loodse.com/).
-Previously, I was an intern at [Red Hat](https://www.redhat.com/en) and worked on the extensibility of the Kubernetes API.
-I was also a Google Summer of Code (2017) student for the Cloud Native Computing Foundation (CNCF) and worked on Kubernetes. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
-Now, I volunteer as a [GSoC Organization Admin](https://github.com/cncf/soc#organization-admins) for CNCF and help run the program for them.
+I also run the [GSoC](https://github.com/cncf/soc#organization-admins) and [Outreachy](https://www.outreachy.org/communities/cfp/kubernetes/) internship programs for Kubernetes.
 
-You can find me at these places but the most reliable way to reach me is to send an email. Please note that due to the large influx of email, it might take 2-3 business days for me to reply back.
+In the past, I was an intern at [Red Hat](https://www.redhat.com/en) and a Google Summer of Code (2017) student for the Cloud Native Computing Foundation (CNCF). In both roles, I worked extensively on Kubernetes. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
+
+You can find me at these places but the most reliable way to reach me is to send an email.
 
 <div align="center">
 <p>
