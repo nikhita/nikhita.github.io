@@ -20,7 +20,7 @@ You can find me at these places but the most reliable way to reach me is to send
 
 <div align="center">
 <p>
-<a href="mailto:nikitaraghunath@gmail.com"><i class="fa fa-envelope-o fa-fw" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+<a href="mailto:nikhitaraghunath@gmail.com"><i class="fa fa-envelope-o fa-fw" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 &nbsp; &nbsp; &nbsp;
 <a href="https://github.com/nikhita"><i class="fa fa-github" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 &nbsp; &nbsp; &nbsp;
