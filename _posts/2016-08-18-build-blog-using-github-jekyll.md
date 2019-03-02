@@ -397,8 +397,4 @@ $ jekyll serve --drafts
 * [Kyle Stratis's post](http://kylestratis.com/2015/04/17/blog-setup/)
 * [Patrick Steadman's post](http://patricksteadman.ca/2014/08/04/lanyonsetup/)
 
-### Closing notes
-
-Finally, the closing note! If you have any queries or constructive criticism, leave it out in the comments or feel free to email me at: nikitaraghunath@gmail.com
-
 Hope this blog post helps you! :)

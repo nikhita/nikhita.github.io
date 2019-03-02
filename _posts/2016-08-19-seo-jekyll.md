@@ -247,5 +247,3 @@ Finally, we are done! Your website is now SEO-ready! :)
 This article might not include _all_ the ways you can make your website come to the first page of Google but it's definitely a good start. Remember that the thumb rule is to write good content! :)
 
 You can find the source code for this website [here](https://github.com/nikhita/nikhita.github.io).
-
-If you have any queries or any constructive criticism to offer, leave it out in the comments or mail me at nikitaraghunath@gmail.com.
