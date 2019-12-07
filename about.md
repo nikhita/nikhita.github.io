@@ -10,7 +10,7 @@ permalink: /about/
 
 Hey there! I am Nikhita Raghunath and I dabble in distributed systems and open source.
 
-I am a core contributor to [Kubernetes](https://kubernetes.io/) and the technical lead for [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience).
+I am a core contributor to [Kubernetes](https://kubernetes.io/), on the Kubernetes [Steering Committee](https://github.com/kubernetes/steering#members) and the technical lead for [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience).
 I am also a [Cloud Native Computing Foundation (CNCF) Ambassador](https://www.cncf.io/people/ambassadors/) and run the [GSoC](https://github.com/cncf/soc#organization-admins) and [Outreachy](https://www.outreachy.org/communities/cfp/kubernetes/) internship programs for CNCF/Kubernetes.
 Currently, I work remotely as a freelance software developer at a start-up called [Loodse](https://www.loodse.com/).
 
