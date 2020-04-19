@@ -10,13 +10,14 @@ permalink: /about/
 
 Hey there! I am Nikhita Raghunath and I dabble in distributed systems and open source.
 
-I am a core contributor to [Kubernetes](https://kubernetes.io/), on the Kubernetes [Steering Committee](https://github.com/kubernetes/steering#members) and the technical lead for [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience).
+I work as a Senior Member of Technical Staff at [VMware](https://www.vmware.com). I am a core contributor to [Kubernetes](https://kubernetes.io/), on the Kubernetes [Steering Committee](https://github.com/kubernetes/steering#members) and the technical lead for [SIG Contributor Experience](https://git.k8s.io/community/sig-contributor-experience).
 I am also a [Cloud Native Computing Foundation (CNCF) Ambassador](https://www.cncf.io/people/ambassadors/) and run the [GSoC](https://github.com/cncf/soc#organization-admins) and [Outreachy](https://www.outreachy.org/communities/cfp/kubernetes/) internship programs for CNCF/Kubernetes.
-Currently, I work remotely as a freelance software developer at a start-up called [Loodse](https://www.loodse.com/).
 
-In the past, I was an intern at [Red Hat](https://www.redhat.com/en) and a Google Summer of Code (2017) student with CNCF. In both roles, I worked extensively on Kubernetes. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
+In the past, I have worked as software engineer at a startup called [Loodse](https://www.loodse.com/). Prior to Loodse, I was an intern at [Red Hat](https://www.redhat.com/en) and a Google Summer of Code (2017) student with CNCF. You can know more about my GSoC work [here](https://github.com/nikhita/gsoc-meta-k8s).
 
-You can find me at these places but the most reliable way to reach me is to send an email.
+In all of these roles, I worked extensively on Kubernetes (yes, you can probably see a common theme here!).
+
+You can find me at the following places but the most reliable way to reach me is to send an email.
 
 <div align="center">
 <p>
