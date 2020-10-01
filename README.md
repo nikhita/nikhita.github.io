@@ -1,4 +1,4 @@
-## Source code of my blog
+## Source code of my blog for the website
 
 The site is available at - https://nikhita.github.io/. It has been hosted using Github pages.
 
